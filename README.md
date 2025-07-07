@@ -24,7 +24,8 @@ This repository contains the work for my assignment in Business Intelligence Ana
 ## 📌 Key Insights
 - Product weights showed a bimodal distribution
 - Warehouse F handled the most shipments across all modes
-- Positive correlation between concrete age and strength; negative correlation between water content and strength
+- Most products are low-cost with a few expensive outliers.
+- No strong linear correlation between cost and weight.
 
 ## 📚 Objective
 Apply core statistical concepts and data visualization techniques to extract insights from real business data and develop reporting skills.
